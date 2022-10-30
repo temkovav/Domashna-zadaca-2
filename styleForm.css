@@ -1,0 +1,36 @@
+body{
+background-color: powderblue; }
+h1 {
+    color: AntiqueWhite (255, 0, 0, 0.700);
+    font-size: 300%;
+#blur {
+font-size:50px;
+color: transparent;
+text-shadow: 0 0 8px #000;}
+}
+
+ p, label {
+    font-style: italic;
+    font-weight: 600;
+padding: 30px;
+}
+
+fieldset {
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: DarkSalmon (255, 0, 0, 0.700);
+    background-color: chocolate (200, 228, 228);
+}
+
+input[type=text] {
+    color: IndianRed (200, 0, 0);
+    font-style: normal ;
+}
+
+input[type=submit] {
+    border-width: 3px;
+    border-radius: 3px;
+    border-color: chocolate (255, 0, 0, 0.700);
+    background-color: cornsilk (255, 228, 228);
+    font-weight: 600;
+}
